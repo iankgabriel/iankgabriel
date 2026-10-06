@@ -14,15 +14,17 @@ I build workflows in Make, n8n, Zapier, and GoHighLevel, and connect them to AI 
 
 ## Tools I work with
 
-![Make](https://img.shields.io/badge/Make-16150F?style=flat-square&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-16150F?style=flat-square&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-16150F?style=flat-square&logo=zapier&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-16150F?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-16150F?style=flat-square&logo=anthropic&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-16150F?style=flat-square&logo=googlesheets&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-16150F?style=flat-square&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-16150F?style=flat-square&logo=notion&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20(learning)-16150F?style=flat-square&logo=python&logoColor=white)
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Make-1D1C1A?style=for-the-badge&logo=make&logoColor=F5F3EE"><img alt="Make" src="https://img.shields.io/badge/Make-EDEBE5?style=for-the-badge&logo=make&logoColor=16150F"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/n8n-1D1C1A?style=for-the-badge&logo=n8n&logoColor=F5F3EE"><img alt="n8n" src="https://img.shields.io/badge/n8n-EDEBE5?style=for-the-badge&logo=n8n&logoColor=16150F"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Zapier-1D1C1A?style=for-the-badge&logo=zapier&logoColor=F5F3EE"><img alt="Zapier" src="https://img.shields.io/badge/Zapier-EDEBE5?style=for-the-badge&logo=zapier&logoColor=16150F"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GoHighLevel-1D1C1A?style=for-the-badge"><img alt="GoHighLevel" src="https://img.shields.io/badge/GoHighLevel-EDEBE5?style=for-the-badge"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Claude-1D1C1A?style=for-the-badge&logo=anthropic&logoColor=F5F3EE"><img alt="Claude" src="https://img.shields.io/badge/Claude-EDEBE5?style=for-the-badge&logo=anthropic&logoColor=16150F"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Google%20Sheets-1D1C1A?style=for-the-badge&logo=googlesheets&logoColor=F5F3EE"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-EDEBE5?style=for-the-badge&logo=googlesheets&logoColor=16150F"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Slack-1D1C1A?style=for-the-badge&logo=slack&logoColor=F5F3EE"><img alt="Slack" src="https://img.shields.io/badge/Slack-EDEBE5?style=for-the-badge&logo=slack&logoColor=16150F"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Notion-1D1C1A?style=for-the-badge&logo=notion&logoColor=F5F3EE"><img alt="Notion" src="https://img.shields.io/badge/Notion-EDEBE5?style=for-the-badge&logo=notion&logoColor=16150F"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python%20(learning)-1D1C1A?style=for-the-badge&logo=python&logoColor=F5F3EE"><img alt="Python (learning)" src="https://img.shields.io/badge/Python%20(learning)-EDEBE5?style=for-the-badge&logo=python&logoColor=16150F"></picture>
+</p>
 
 I also build with Claude Code, MCP connectors, and the Claude Agent SDK, including automations that run unattended with failure alerts.
 
@@ -39,6 +41,8 @@ Before automation, I spent 8 years as a video editor, most recently as Head of P
 
 ## Get in touch
 
-[![Website](https://img.shields.io/badge/ikgdigital.com-16150F?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ikgdigital.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-16150F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-kennedy-gabriel)
-[![Email](https://img.shields.io/badge/ian.kennedy.gabriel@gmail.com-16150F?style=flat-square&logo=gmail&logoColor=white)](mailto:ian.kennedy.gabriel@gmail.com)
+<p>
+<a href="https://www.ikgdigital.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ikgdigital.com-1D1C1A?style=for-the-badge&logo=googlechrome&logoColor=F5F3EE"><img alt="Website" src="https://img.shields.io/badge/ikgdigital.com-EDEBE5?style=for-the-badge&logo=googlechrome&logoColor=16150F"></picture></a>
+<a href="https://www.linkedin.com/in/ian-kennedy-gabriel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-1D1C1A?style=for-the-badge&logo=linkedin&logoColor=F5F3EE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-EDEBE5?style=for-the-badge&logo=linkedin&logoColor=16150F"></picture></a>
+<a href="mailto:ian.kennedy.gabriel@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-1D1C1A?style=for-the-badge&logo=gmail&logoColor=F5F3EE"><img alt="Email" src="https://img.shields.io/badge/Email-EDEBE5?style=for-the-badge&logo=gmail&logoColor=16150F"></picture></a>
+</p>
